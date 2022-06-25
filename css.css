@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(19, 201, 19);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+display: flex;
+align-content: space-between;
+text-align: center;
+}
